@@ -47,12 +47,12 @@ Here are some ideas to get you started:
   <img
     alt="GitHub Stats"
     height="175px"
-    src="https://github-readme-stats.vercel.app/api?username=NaoyaMiyagawa&count_private=true&show_icons=true&custom_title=Github+Stats&title_color=57b172&icon_color=57b172&text_color=444&bg_color=fdfffd"
+    src="https://github-readme-stats.vercel.app/api?username=NaoyaMiyagawa&count_private=true&show_icons=true&custom_title=Github+Stats&title_color=57b172&icon_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb"
   />
   <img
     alt="Top Langs"
     height="175px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaMiyagawa&layout=compact&count_private=true&show_icons=true&custom_title=Language+Stats&title_color=57b172&text_color=444&bg_color=fdfffd&hide=html,css,scss,pug,shell,vim+script"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaMiyagawa&layout=compact&count_private=true&show_icons=true&custom_title=Language+Stats&title_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb&hide=html,css,scss,pug,shell,vim+script"
   />
 </p>
 
