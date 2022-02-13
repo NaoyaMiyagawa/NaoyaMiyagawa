@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <p>I'm Naoya Miyagawa, a Web Developer in Fukuoka, Japan 🇯🇵</p>
 
+<br />
+
 <p align="left">
   <a href="https://github.com/NaoyaMiyagawa" target="_blank">
     <img
@@ -50,11 +52,13 @@ Here are some ideas to get you started:
   <img
     alt="GitHub Stats"
     height="175px"
-    src="https://github-readme-stats.vercel.app/api?username=NaoyaMiyagawa&count_private=true&show_icons=true&title_color=77d894&icon_color=77d894&text_color=444&bg_color=f2f8f4"
+    src="https://github-readme-stats.vercel.app/api?username=NaoyaMiyagawa&count_private=true&show_icons=true&title_color=77d894&icon_color=77d894&text_color=444&bg_color=f9fffb"
   />
   <img
     alt="Top Langs"
     height="175px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaMiyagawa&layout=compact&count_private=true&show_icons=true&title_color=77d894&text_color=444&bg_color=f2f8f4&hide=html,css,scss,pug,shell,vim+script"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaMiyagawa&layout=compact&count_private=true&show_icons=true&title_color=77d894&text_color=444&bg_color=f9fffb&hide=html,css,scss,pug,shell,vim+script"
   />
 </p>
+
+<br />
