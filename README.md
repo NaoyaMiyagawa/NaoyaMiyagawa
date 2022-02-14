@@ -45,29 +45,45 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img
-    alt="GitHub Stats"
-    height="175px"
-    src="https://github-readme-stats.vercel.app/api?username=NaoyaMiyagawa&count_private=true&show_icons=true&custom_title=Github+Stats&title_color=57b172&icon_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb"
+    alt="Top Langs"
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaMiyagawa&layout=compact&count_private=true&show_icons=true&custom_title=Language+Stats&title_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb&hide=html,css,scss,pug,shell,vim+script"
   />
   <img
-    alt="Top Langs"
-    height="175px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaMiyagawa&layout=compact&count_private=true&show_icons=true&custom_title=Language+Stats&title_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb&hide=html,css,scss,pug,shell,vim+script"
+    alt="GitHub Stats"
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=NaoyaMiyagawa&count_private=true&show_icons=true&custom_title=Github+Stats&title_color=57b172&icon_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb"
   />
 </p>
 
 <p align="left">
   <a href="https://www.credly.com/badges/798d152a-c4e9-4e20-8e0c-fa35f38ca005/public_url">
-    <img alt="AWS SAP" height="90" src="https://images.credly.com/size/300x300/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" />
+    <img
+      alt="AWS SAP"
+      height="90"
+      src="https://images.credly.com/size/300x300/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png"
+    />
   </a>
   <a href="https://www.credly.com/badges/0661dcac-1f46-48f2-926e-13ba0cebc1d8/public_url">
-    <img alt="AWS SAA" height="90" src="https://images.credly.com/size/300x300/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" />
+    <img
+      alt="AWS SAA"
+      height="90"
+      src="https://images.credly.com/size/300x300/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"
+    />
   </a>
   <a href="https://www.credly.com/badges/0215bc8a-f267-4bc9-94e4-33945b59d67a/public_url">
-    <img alt="AWS DVA" height="90" src="https://images.credly.com/size/300x300/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" />
+    <img
+      alt="AWS DVA"
+      height="90"
+      src="https://images.credly.com/size/300x300/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"
+    />
   </a>
   <a href="https://www.credly.com/badges/a69260b2-12f5-4e8f-929c-5601d8bf010b/public_url">
-    <img alt="AWS SOA" height="90" src="https://images.credly.com/size/300x300/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png" />
+    <img
+      alt="AWS SOA"
+      height="90"
+      src="https://images.credly.com/size/300x300/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png"
+    />
   </a>
 </p>
 
