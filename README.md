@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=NaoyaMiyagawa&color=57b172&logo=github" alt="NaoyaMiyagawa" />
   </a>
   &nbsp; ｜ &nbsp;
-  <a href="https://twitter.com/miyagawa_fusic" target="_blank">
+  <a href="https://twitter.com/_miya_nm7" target="_blank">
     <img
       alt="Twitter"
       height="20"
