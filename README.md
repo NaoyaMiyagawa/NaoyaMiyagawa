@@ -61,28 +61,28 @@ Here are some ideas to get you started:
     <img
       alt="AWS SAP"
       height="90"
-      src="https://images.credly.com/size/300x300/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png"
+      src="https://images.credly.com/size/300x300/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
     />
   </a>
   <a href="https://www.credly.com/badges/0661dcac-1f46-48f2-926e-13ba0cebc1d8/public_url">
     <img
       alt="AWS SAA"
       height="90"
-      src="https://images.credly.com/size/300x300/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"
+      src="https://images.credly.com/size/300x300/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
     />
   </a>
   <a href="https://www.credly.com/badges/0215bc8a-f267-4bc9-94e4-33945b59d67a/public_url">
     <img
       alt="AWS DVA"
       height="90"
-      src="https://images.credly.com/size/300x300/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"
+      src="https://images.credly.com/size/300x300/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
     />
   </a>
   <a href="https://www.credly.com/badges/a69260b2-12f5-4e8f-929c-5601d8bf010b/public_url">
     <img
       alt="AWS SOA"
       height="90"
-      src="https://images.credly.com/size/300x300/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png"
+      src="https://images.credly.com/size/300x300/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"
     />
   </a>
 </p>
