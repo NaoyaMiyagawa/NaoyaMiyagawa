@@ -2,8 +2,6 @@
 
 <p>I'm Naoya Miyagawa, a Full-stack Web Developer based in Singapore 🇸🇬, originally from Japan 🇯🇵</p>
 
-<br />
-
 <p align="left">
   <div style="display: flex; flex-wrap: wrap; vertical-align: middle; gap: 20px; align-items: center;">
     <a href="https://github.com/NaoyaMiyagawa" style="text-decoration: none;">
@@ -31,17 +29,17 @@
 <p align="left">
   <img
     alt="Top Langs"
-    height="175"
+    height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaMiyagawa&layout=compact&count_private=true&show_icons=true&custom_title=Language+Stats&title_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb&hide=html,css,scss,pug,shell,vim+script"
   />
   <img
     alt="GitHub Stats"
-    height="175"
+    height="160"
     src="https://github-readme-stats.vercel.app/api?username=NaoyaMiyagawa&count_private=true&show_icons=true&custom_title=Github+Stats&title_color=57b172&icon_color=57b172&text_color=444&bg_color=ffffff,f5fff2,e8fcff,eefffb"
   />
 </p>
 
-#### Articles
+#### 🌿 Articles 🌿
 <p align="left">
   <div style="display: flex; flex-wrap: wrap; vertical-align: middle; gap: 5px; align-items: center;">
     <a href="https://qiita.com/NaoyaMiyagawa" target="_blank" style="text-decoration: none;">
@@ -51,18 +49,18 @@
   </div>
 </p>
 
-<b style="color: #6EAF78;">Recent Posts</b>
+<b>Recent Posts</b>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-#### Recent Activity
+#### 🌿 Recent Activity 🌿
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 
-#### Certificates
+#### 🌿 Certificates 🌿
 
 <p align="left">
   <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 20px; align-items: center;">
