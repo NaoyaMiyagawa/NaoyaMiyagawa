@@ -1,6 +1,6 @@
-### Hi 🙋🏻‍♂️🌿
+### Hi, I'm Naoya Miyagawa 🙋🏻‍♂️🌿
 
-<p>I'm Naoya Miyagawa, a Full-stack Web Developer based in Singapore 🇸🇬, originally from Japan 🇯🇵</p>
+<p>A Full-stack Web Developer based in Singapore 🇸🇬, originally from Japan 🇯🇵</p>
 
 <p align="left">
   <div>
@@ -42,18 +42,14 @@
   />
 </p>
 
-#### 🌿 Articles 🌿
+#### 🌿 Recent Posts 🌿
 <p align="left">
-  <div style="display: flex; flex-wrap: wrap; vertical-align: middle; gap: 5px; align-items: center;">
-    <a href="https://qiita.com/NaoyaMiyagawa"><img src="https://badgen.org/img/qiita/NaoyaMiyagawa/articles?style=flat&label=Qiita+posts" alt="Articles" /></a>
-    <a href="https://qiita.com/NaoyaMiyagawa"><img src="https://badgen.org/img/qiita/NaoyaMiyagawa/contributions?style=flat&label=Qiita+contributions" alt="Contributions" /></a>
-    &nbsp;&nbsp;
-    <a href="https://zenn.dev/n_miyagawa"><img src="https://badgen.org/img/zenn/n_miyagawa/articles?style=flat&label=Zenn+posts" alt="Articles" /></a>
-    <a href="https://zenn.dev/n_miyagawa"><img src="https://badgen.org/img/zenn/n_miyagawa/likes?style=flat&label=Zenn+contribution" alt="Likes" /></a>
-  </div>
+  <a href="https://qiita.com/NaoyaMiyagawa"><img src="https://badgen.org/img/qiita/NaoyaMiyagawa/articles?style=flat&label=Qiita+posts" alt="Articles" /></a>
+  <a href="https://qiita.com/NaoyaMiyagawa"><img src="https://badgen.org/img/qiita/NaoyaMiyagawa/contributions?style=flat&label=Qiita+contributions" alt="Contributions" /></a>
+  &nbsp;&nbsp;
+  <a href="https://zenn.dev/n_miyagawa"><img src="https://badgen.org/img/zenn/n_miyagawa/articles?style=flat&label=Zenn+posts" alt="Articles" /></a>
+  <a href="https://zenn.dev/n_miyagawa"><img src="https://badgen.org/img/zenn/n_miyagawa/likes?style=flat&label=Zenn+contribution" alt="Likes" /></a>
 </p>
-
-<b>Recent Posts</b>
 
 <!-- BLOG-POST-LIST:START -->
 - [【作業効率化】macおすすめアプリ10選！](https://zenn.dev/n_miyagawa/articles/202308_mac_must_have_apps)
@@ -81,7 +77,7 @@
   >
     <img
       alt="AWS SAP (Solution Architect - Professional)"
-      height="90"
+      height="80"
       src="https://images.credly.com/size/300x300/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
     />
   </a>
@@ -90,7 +86,7 @@
   >
     <img
       alt="AWS SAA (Solution Architect - Associate)"
-      height="90"
+      height="80"
       src="https://images.credly.com/size/300x300/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
     />
   </a>
@@ -99,7 +95,7 @@
   >
     <img
       alt="AWS DVA (Developer - Associate)"
-      height="90"
+      height="80"
       src="https://images.credly.com/size/300x300/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
     />
   </a>
@@ -108,11 +104,8 @@
   >
     <img
       alt="AWS SOA (SysOps Administrator - Associate)"
-      height="90"
-      width="100"
+      height="80"
       src="https://images.credly.com/size/300x300/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"
     />
   </a>
 </p>
-
-<br />
