@@ -71,10 +71,9 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-
-- [【作業効率化】mac おすすめアプリ 10 選！](https://zenn.dev/n_miyagawa/articles/202308_mac_must_have_apps)
-- [CakePHP に IDE Helper を導入し IDE 補完で開発効率を上げる ⚡️【CI 連携】](https://qiita.com/NaoyaMiyagawa/items/8344fd7f0e406475341c)
-- [セレクトボックス値変更時のページ遷移に URL オブジェクトを利用する](https://qiita.com/NaoyaMiyagawa/items/62c766b7de65d03fa5e9)
+- [【作業効率化】macおすすめアプリ10選！](https://zenn.dev/n_miyagawa/articles/202308_mac_must_have_apps)
+- [CakePHPにIDE Helperを導入しIDE補完で開発効率を上げる⚡️【CI連携】](https://qiita.com/NaoyaMiyagawa/items/8344fd7f0e406475341c)
+- [セレクトボックス値変更時のページ遷移にURLオブジェクトを利用する](https://qiita.com/NaoyaMiyagawa/items/62c766b7de65d03fa5e9)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🌿 Recent Activity 🌿
