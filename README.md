@@ -80,11 +80,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#31](https://github.com/7nohe/laravel-typegen/pull/31#issuecomment-2119180709) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-2. 💪 Opened PR [#31](https://github.com/7nohe/laravel-typegen/pull/31) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-3. 💪 Opened PR [#8](https://github.com/NaoyaMiyagawa/laravel-typegen-sample/pull/8) in [NaoyaMiyagawa/laravel-typegen-sample](https://github.com/NaoyaMiyagawa/laravel-typegen-sample)
-4. ❗ Opened issue [#30](https://github.com/7nohe/laravel-typegen/issues/30) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
-5. 🗣 Commented on [#29](https://github.com/7nohe/laravel-typegen/pull/29#issuecomment-2119151412) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. 💪 Opened PR [#41](https://github.com/7nohe/laravel-typegen/pull/41) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+2. 🗣 Commented on [#31](https://github.com/7nohe/laravel-typegen/pull/31#issuecomment-2119180709) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+3. 💪 Opened PR [#31](https://github.com/7nohe/laravel-typegen/pull/31) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+4. 💪 Opened PR [#8](https://github.com/NaoyaMiyagawa/laravel-typegen-sample/pull/8) in [NaoyaMiyagawa/laravel-typegen-sample](https://github.com/NaoyaMiyagawa/laravel-typegen-sample)
+5. ❗ Opened issue [#30](https://github.com/7nohe/laravel-typegen/issues/30) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 <!--END_SECTION:activity-->
 
 #### 🌿 Certificates 🌿
