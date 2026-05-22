@@ -80,8 +80,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10](https://github.com/digitalcredentials/open-badges-context/issues/10#issuecomment-2700362851) in [digitalcredentials/open-badges-context](https://github.com/digitalcredentials/open-badges-context)
-2. 💪 Opened PR [#41](https://github.com/7nohe/laravel-typegen/pull/41) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. ℹ️ Labeled issue [#57386](https://github.com/zed-industries/zed/issues/57386) in [zed-industries/zed](https://github.com/zed-industries/zed)
+2. ❗ Opened issue [#57386](https://github.com/zed-industries/zed/issues/57386) in [zed-industries/zed](https://github.com/zed-industries/zed)
 3. 💪 Opened PR [#31](https://github.com/7nohe/laravel-typegen/pull/31) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 4. 💪 Opened PR [#8](https://github.com/NaoyaMiyagawa/laravel-typegen-sample/pull/8) in [NaoyaMiyagawa/laravel-typegen-sample](https://github.com/NaoyaMiyagawa/laravel-typegen-sample)
 5. ❗ Opened issue [#30](https://github.com/7nohe/laravel-typegen/issues/30) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
