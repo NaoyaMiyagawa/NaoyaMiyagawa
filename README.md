@@ -80,7 +80,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#57386](https://github.com/zed-industries/zed/issues/57386) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 🗣 Commented on [#5786](https://github.com/microsoft/vscode-pull-request-github/issues/5786#issuecomment-5201055030) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
 2. ❗ Opened issue [#57386](https://github.com/zed-industries/zed/issues/57386) in [zed-industries/zed](https://github.com/zed-industries/zed)
 3. 💪 Opened PR [#31](https://github.com/7nohe/laravel-typegen/pull/31) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 4. 💪 Opened PR [#8](https://github.com/NaoyaMiyagawa/laravel-typegen-sample/pull/8) in [NaoyaMiyagawa/laravel-typegen-sample](https://github.com/NaoyaMiyagawa/laravel-typegen-sample)
