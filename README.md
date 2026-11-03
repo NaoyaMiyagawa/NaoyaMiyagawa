@@ -80,9 +80,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5786](https://github.com/microsoft/vscode-pull-request-github/issues/5786#issuecomment-5201055030) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
-2. ❗ Opened issue [#57386](https://github.com/zed-industries/zed/issues/57386) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 💪 Opened PR [#31](https://github.com/7nohe/laravel-typegen/pull/31) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
+1. 🗣 Commented on [#6](https://github.com/PHPantom-dev/phpantom_vsix/pull/6#issuecomment-6594009824) in [PHPantom-dev/phpantom_vsix](https://github.com/PHPantom-dev/phpantom_vsix)
+2. 🗣 Commented on [#6](https://github.com/PHPantom-dev/phpantom_vsix/pull/6#issuecomment-6585028996) in [PHPantom-dev/phpantom_vsix](https://github.com/PHPantom-dev/phpantom_vsix)
+3. 💪 Opened PR [#6](https://github.com/PHPantom-dev/phpantom_vsix/pull/6) in [PHPantom-dev/phpantom_vsix](https://github.com/PHPantom-dev/phpantom_vsix)
 4. 💪 Opened PR [#8](https://github.com/NaoyaMiyagawa/laravel-typegen-sample/pull/8) in [NaoyaMiyagawa/laravel-typegen-sample](https://github.com/NaoyaMiyagawa/laravel-typegen-sample)
 5. ❗ Opened issue [#30](https://github.com/7nohe/laravel-typegen/issues/30) in [7nohe/laravel-typegen](https://github.com/7nohe/laravel-typegen)
 <!--END_SECTION:activity-->
